@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/src/main/res/drawable-nodpi/dark_background.jpg
+app/src/main/res/drawable-nodpi/gray_background.jpg
